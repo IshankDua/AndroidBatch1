@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342576255316",
+    "firebase_url": "https://android-learning-d78b5.firebaseio.com",
+    "project_id": "android-learning-d78b5",
+    "storage_bucket": "android-learning-d78b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342576255316:android:114f9f9bb662d0b5",
+        "android_client_info": {
+          "package_name": "com.ckdtech.www.androidlearningapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342576255316-23evqqqgl5il5pb9ngcku9m0pngjkacg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ckdtech.www.androidlearningapplication",
+            "certificate_hash": "41326d21ac274f551935f8ea684cd27ff8a3b36c"
+          }
+        },
+        {
+          "client_id": "342576255316-djjq35vb3aod2jvib4pp5qahba0btouq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrLI3LulHZFLiT1B7t_nkBg3Hut46Ok4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342576255316-djjq35vb3aod2jvib4pp5qahba0btouq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
